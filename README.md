@@ -1,4 +1,7 @@
 # Jacek Pudysz
+
+![Jacek's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpudysz&count_private=true&show_icons=true&theme=dracula)
+
 ### CTO at Codemask / Lead React Native developer
 
 ⤷ Exploring the world of React Native as a CTO at Codemask and always looking to improve my skills. Check out my Github for a glimpse of my projects and ongoing learning journey.
