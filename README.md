@@ -33,8 +33,8 @@
 
 ### 📚 Elsewhere
 
-- 📰 [React Native Crossroads](https://reactnativecrossroads.com) — my newsletter on React Native internals, styling and tooling
-- 🐦 [@jpudysz](https://x.com/jpudysz) — where I post release notes, benchmarks and hot takes
+- 📰 [React Native Crossroads](https://reactnativecrossroads.com) - my newsletter on React Native internals, styling and tooling
+- 🐦 [@jpudysz](https://x.com/jpudysz) - where I post release notes, benchmarks and hot takes
 
 ### 💜 Support
 
